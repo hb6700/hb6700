@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello My name is Yeom Hyunbin 👋
 
 <!--
 **hb6700/hb6700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
