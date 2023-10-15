@@ -1,7 +1,7 @@
 ### Hello My name is Bin 👋
 Welcone to my Github🎉
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hb6700&layout=compact)](https://github.com/delay-100/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hb6700&layout=compact)](https://github.com/hb6700/github-readme-stats)
 <!--
 **hb6700/hb6700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
